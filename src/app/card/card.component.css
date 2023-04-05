@@ -1,0 +1,25 @@
+
+.heading{
+margin-left: 600px;}
+
+.card{
+    background-color: rgb(128, 247, 138);
+    border-radius: 20px;
+    box-shadow: 10px 10px 12px black;
+    height: 350px;
+    width: 350px;
+    margin: 40px;
+    padding: 20px;
+    font-size: larger;
+
+}
+.card:hover{
+    transform: scale(1.1);
+    font-size: larger;
+    background-color: rgb(50, 237, 251);
+    color: white;
+}
+.raw{
+    display: flex;
+
+}
